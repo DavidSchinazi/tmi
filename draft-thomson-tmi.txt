@@ -711,16 +711,16 @@ Internet-Draft           Too Much Intermediation               July 2020
               DOI 10.17487/RFC3261, June 2002,
               <https://www.rfc-editor.org/info/rfc3261>.
 
-   [RFC7092]  Kaplan, H. and V. Pascual, "A Taxonomy of Session
-              Initiation Protocol (SIP) Back-to-Back User Agents",
-              RFC 7092, DOI 10.17487/RFC7092, December 2013,
-              <https://www.rfc-editor.org/info/rfc7092>.
+   [RFC3552]  Rescorla, E. and B. Korver, "Guidelines for Writing RFC
+              Text on Security Considerations", BCP 72, RFC 3552,
+              DOI 10.17487/RFC3552, July 2003,
+              <https://www.rfc-editor.org/info/rfc3552>.
 
-   [RFC7258]  Farrell, S. and H. Tschofenig, "Pervasive Monitoring Is an
-              Attack", BCP 188, RFC 7258, DOI 10.17487/RFC7258, May
-              2014, <https://www.rfc-editor.org/info/rfc7258>.
-
-
+   [RFC3724]  Kempf, J., Ed., Austein, R., Ed., and IAB, "The Rise of
+              the Middle and the Future of End-to-End: Reflections on
+              the Evolution of the Internet Architecture", RFC 3724,
+              DOI 10.17487/RFC3724, March 2004,
+              <https://www.rfc-editor.org/info/rfc3724>.
 
 
 
@@ -729,6 +729,15 @@ Thomson                  Expires 3 January 2021                [Page 13]
 
 Internet-Draft           Too Much Intermediation               July 2020
 
+
+   [RFC7092]  Kaplan, H. and V. Pascual, "A Taxonomy of Session
+              Initiation Protocol (SIP) Back-to-Back User Agents",
+              RFC 7092, DOI 10.17487/RFC7092, December 2013,
+              <https://www.rfc-editor.org/info/rfc7092>.
+
+   [RFC7258]  Farrell, S. and H. Tschofenig, "Pervasive Monitoring Is an
+              Attack", BCP 188, RFC 7258, DOI 10.17487/RFC7258, May
+              2014, <https://www.rfc-editor.org/info/rfc7258>.
 
    [RFC8155]  Patil, P., Reddy, T., and D. Wing, "Traversal Using Relays
               around NAT (TURN) Server Auto Discovery", RFC 8155,
@@ -768,6 +777,15 @@ Internet-Draft           Too Much Intermediation               July 2020
               conference - IMC '11, 2011,
               <https://doi.org/10.1145/2068816.2068834>.
 
+
+
+
+
+Thomson                  Expires 3 January 2021                [Page 14]
+
+Internet-Draft           Too Much Intermediation               July 2020
+
+
    [TLS]      Rescorla, E., "The Transport Layer Security (TLS) Protocol
               Version 1.3", RFC 8446, DOI 10.17487/RFC8446, August 2018,
               <https://www.rfc-editor.org/info/rfc8446>.
@@ -778,13 +796,6 @@ Internet-Draft           Too Much Intermediation               July 2020
               Progress, Internet-Draft, draft-ietf-tsvwg-transport-
               encrypt-15, 1 May 2020, <http://www.ietf.org/internet-
               drafts/draft-ietf-tsvwg-transport-encrypt-15.txt>.
-
-
-
-Thomson                  Expires 3 January 2021                [Page 14]
-
-Internet-Draft           Too Much Intermediation               July 2020
-
 
    [UNSAF]    Daigle, L., Ed. and IAB, "IAB Considerations for
               UNilateral Self-Address Fixing (UNSAF) Across Network
@@ -798,7 +809,10 @@ Internet-Draft           Too Much Intermediation               July 2020
 
 Appendix A.  Acknowledgments
 
-   TODO
+   This document is merely an attempt to codify existing practice.
+   Practice that is inspired, at least in part, by prior work, including
+   [RFC3552] and [RFC3724] which both advocate for clearer articulation
+   of trust boundaries.
 
 Author's Address
 
@@ -806,20 +820,6 @@ Author's Address
    Mozilla
 
    Email: mt@lowentropy.net
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
